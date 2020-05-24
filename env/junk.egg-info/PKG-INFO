@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: junk
+Version: 1
+Summary: Nothing much here just for demo....
+Home-page: UNKNOWN
+Author: Saish Borkar
+Author-email: borkarsg@gmail.com
+License: MIT
+Description: test in prog
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+setup.py
+junk/__init__.py
+junk/me.py
+junk.egg-info/PKG-INFO
+junk.egg-info/SOURCES.txt
+junk.egg-info/dependency_links.txt
+junk.egg-info/top_level.txt
